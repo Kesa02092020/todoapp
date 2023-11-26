@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2026" data-name="Rectangle 2026" width="45" height="45" transform="translate(92 105)" fill="#dfdfdf"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3541" data-name="Mask Group 3541" transform="translate(-92 -105)" clip-path="url(#clip-path)">
+    <g id="_6593718_animal_farm_pig_icon" data-name="6593718_animal_farm_pig_icon" transform="translate(90.548 102.823)">
+      <path id="Path_4467" data-name="Path 4467" d="M35.419,37.306A27.35,27.35,0,0,1,25.4,39.194a28.933,28.933,0,0,1-8.129-1.161" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.903"/>
+      <path id="Path_4468" data-name="Path 4468" d="M31.79,33.968a8.766,8.766,0,0,0,3.774,3.484l.726.29,1.452,2.9H42.1V36.29A27.555,27.555,0,0,0,45,23.952h0A10.872,10.872,0,0,0,34.113,13.065H22.21A16.6,16.6,0,0,0,11.032,8.71h-.871l3.484,5.806a9.5,9.5,0,0,0-4.21,5.226L8.71,21.774a4.49,4.49,0,0,1-5.806,2.9v5.806l8.71,2.9v7.258h4.355l1.452-4.355" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.903"/>
+      <path id="Path_4469" data-name="Path 4469" d="M44.274,26.419a3.944,3.944,0,0,1-5.661,0,3.243,3.243,0,0,1,0-4.645" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.903"/>
+      <g id="Group_78" data-name="Group 78">
+        <path id="Path_4470" data-name="Path 4470" d="M14.516,26.129h-.29c-.145,0-.145,0-.29-.145-.145,0-.145-.145-.29-.145a.142.142,0,0,1-.145-.145.142.142,0,0,0-.145-.145c0-.145-.145-.145-.145-.29s0-.145-.145-.29v-.29a1.318,1.318,0,0,1,.435-1.016l.145-.145c.145,0,.145-.145.29-.145s.145,0,.29-.145a1.841,1.841,0,0,1,.871.145c.145.145.29.145.435.29s.29.29.29.435.145.435.145.581v.29c0,.145,0,.145-.145.29,0,.145-.145.145-.145.29l-.145.145A1.318,1.318,0,0,1,14.516,26.129Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

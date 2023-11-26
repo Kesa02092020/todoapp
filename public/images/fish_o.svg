@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2026" data-name="Rectangle 2026" width="45" height="45" transform="translate(92 105)" fill="#dfdfdf"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3540" data-name="Mask Group 3540" transform="translate(-92 -105)" clip-path="url(#clip-path)">
+    <g id="_6613269_animal_fish_restaurant_seafood_icon" data-name="6613269_animal_fish_restaurant_seafood_icon" transform="translate(88.786 101.784)">
+      <path id="Path_4464" data-name="Path 4464" d="M40.179,25.714S32.3,36.964,22.5,36.964,4.821,25.714,4.821,25.714,12.7,14.464,22.5,14.464,40.179,25.714,40.179,25.714Z" fill="none" stroke="#f37728" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.214"/>
+      <path id="Path_4465" data-name="Path 4465" d="M40.179,25.714l6.429-8.036V33.75l-6.429-8.036" fill="none" stroke="#f37728" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.214"/>
+      <path id="Path_4466" data-name="Path 4466" d="M18.482,15.107A15.823,15.823,0,0,1,22.5,25.714a15.525,15.525,0,0,1-4.018,10.607" fill="none" stroke="#f37728" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.214"/>
+      <line id="Line_11" data-name="Line 11" y2="3.214" transform="translate(14.464 22.5)" fill="none" stroke="#f37728" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.214"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2026" data-name="Rectangle 2026" width="45" height="45" transform="translate(92 105)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3549" data-name="Mask Group 3549" transform="translate(-92 -105)" clip-path="url(#clip-path)">
+    <g id="_6602504_blood_halloween_knife_icon" data-name="6602504_blood_halloween_knife_icon" transform="translate(87.329 99.912)">
+      <path id="Path_4484" data-name="Path 4484" d="M26.14,35.263,14.386,47.018a4.239,4.239,0,0,1-6.14,0h0a4.239,4.239,0,0,1,0-6.14L20,29.123Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.509"/>
+      <path id="Path_4485" data-name="Path 4485" d="M32.281,41.579l10-10a17.471,17.471,0,0,0,0-24.737h0L19.825,29.123Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.509"/>
+      <line id="Line_12" data-name="Line 12" y1="19.298" transform="translate(47.368 19.298)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.509"/>
+      <line id="Line_13" data-name="Line 13" transform="translate(47.368 43.86)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3.509"/>
+    </g>
+  </g>
+</svg>

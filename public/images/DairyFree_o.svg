@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2026" data-name="Rectangle 2026" width="45" height="45" transform="translate(92 105)" fill="#f37728"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3550" data-name="Mask Group 3550" transform="translate(-92 -105)" clip-path="url(#clip-path)">
+    <g id="_5404326_cup_drink_glass_milk_icon" data-name="5404326_cup_drink_glass_milk_icon" transform="translate(88.786 101.786)">
+      <path id="Path_4486" data-name="Path 4486" d="M41.786,22.339v-.321c0-.161,0-.161-.161-.321v-.161L35.357,10.768V4.821A1.518,1.518,0,0,0,33.75,3.214H17.679a1.518,1.518,0,0,0-1.607,1.607v5.946L9.8,21.536V21.7c0,.161,0,.161-.161.321V46.607a1.518,1.518,0,0,0,1.607,1.607H40.179a1.518,1.518,0,0,0,1.607-1.607V22.339ZM17.679,14.464l3.536,6.268H13.982Zm7.232,6.268-4.5-7.875H32.786l4.5,7.875Zm-5.625-14.3H32.143V9.643H19.286ZM12.857,23.946H22.5V45H12.857ZM38.571,45H25.714V23.946H38.571Z" fill="#f37728"/>
+      <path id="Path_4487" data-name="Path 4487" d="M16.071,30.536h3.214a1.607,1.607,0,1,0,0-3.214H16.071a1.607,1.607,0,1,0,0,3.214Z" fill="#f37728"/>
+      <path id="Path_4488" data-name="Path 4488" d="M19.286,32.946H16.071a1.607,1.607,0,1,0,0,3.214h3.214a1.607,1.607,0,0,0,0-3.214Z" fill="#f37728"/>
+      <path id="Path_4489" data-name="Path 4489" d="M19.286,38.571H16.071a1.607,1.607,0,1,0,0,3.214h3.214a1.607,1.607,0,0,0,0-3.214Z" fill="#f37728"/>
+    </g>
+  </g>
+</svg>
