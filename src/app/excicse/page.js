@@ -32,7 +32,7 @@ const page = () =>{
         }
         setTodo([...todo, todos]);
         console.log(todo);
-        setInputval(''); // Clear the input field after submitting
+        setInputval(''); 
       };
       const deletetodo = (erer) =>{
         const updatetodo = todo.filter((tdo,i)=>{
